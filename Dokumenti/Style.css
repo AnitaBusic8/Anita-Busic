@@ -1,0 +1,26 @@
+/*css document*/
+p{
+	color: red;
+	font-family: Constantia,"Lucida Bright";
+	font-size:16px;
+	line-height:18px;
+	width:800px;
+	background-color: white;
+	padding:20px;
+}
+h2{
+	font-family: Gotham,"Helvetica Neue",Helvetica, Arial, "sans-serif";
+	color: blue;
+}
+h3{
+	color:blue;
+	background-color:white;
+	width:300px;
+	padding:15px;
+}
+span{
+	color:black;
+}
+body{
+	background-image:url("https://img.freepik.com/free-vector/hand-painted-watercolor-abstract-watercolor-background_23-2149009911.jpg?t=st=1655295981~exp=1655296581~hmac=0d93e88370e63abd9f9c50069b46356d29b2f26eea8fac8dd706276d2cc9f04f&w=1060");
+	
